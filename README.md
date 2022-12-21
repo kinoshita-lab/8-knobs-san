@@ -1,5 +1,6 @@
-# 8-knobs-san
+# 8-knobs-san kit
 
+[Document in Japanese](README_ja.md)
 ## PCB board with 8 Potentiometers
 
 8-knobs-san is a handy PCB with 8 potentiometers and analog multiplexer.
