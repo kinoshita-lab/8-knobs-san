@@ -17,5 +17,5 @@
 
 ## サンプルプログラム
 
-software/exapmle/Simple にある例を参考にしてください。  簡単な例ですが、クラスライブラリを添付しています。
+software/exapmle にある例を参考にしてください。  簡単な例ですが、クラスライブラリを添付しています。
 <https://github.com/kinoshita-lab/8-knobs-san/tree/main/software/example>
