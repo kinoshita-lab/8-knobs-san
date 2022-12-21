@@ -17,4 +17,4 @@ Solder the included 1x7 pin socket into the following place below:
 
 ## Sample program
 
-Please refer to the software/exapmle/Simple <https://github.com/kinoshita-lab/8-knobs-san/tree/main/software/example>
+Please refer to the software/exapmle <https://github.com/kinoshita-lab/8-knobs-san/tree/main/software/example>
